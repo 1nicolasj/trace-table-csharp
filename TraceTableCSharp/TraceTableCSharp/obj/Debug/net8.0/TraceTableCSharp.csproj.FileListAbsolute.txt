@@ -1,0 +1,14 @@
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\obj\Debug\net8.0\TraceTableCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\obj\Debug\net8.0\TraceTableCSharp.AssemblyInfoInputs.cache
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\obj\Debug\net8.0\TraceTableCSharp.AssemblyInfo.cs
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\obj\Debug\net8.0\TraceTableCSharp.csproj.CoreCompileInputs.cache
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\bin\Debug\net8.0\TraceTableCSharp.exe
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\bin\Debug\net8.0\TraceTableCSharp.deps.json
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\bin\Debug\net8.0\TraceTableCSharp.runtimeconfig.json
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\bin\Debug\net8.0\TraceTableCSharp.dll
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\bin\Debug\net8.0\TraceTableCSharp.pdb
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\obj\Debug\net8.0\TraceTableCSharp.dll
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\obj\Debug\net8.0\refint\TraceTableCSharp.dll
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\obj\Debug\net8.0\TraceTableCSharp.pdb
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\obj\Debug\net8.0\TraceTableCSharp.genruntimeconfig.cache
+E:\BNE\LMS\CursoLogica\TraceTableCSharp\TraceTableCSharp\obj\Debug\net8.0\ref\TraceTableCSharp.dll
