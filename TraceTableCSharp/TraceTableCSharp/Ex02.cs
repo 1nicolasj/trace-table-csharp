@@ -18,16 +18,13 @@ namespace TraceTableCSharp
                 v[a] = 10 * a;
                 a += 1;
             }
-            Console.WriteLine("Vetor:");
+
             int index = 0;
             foreach(int valor in v)
             {
                 Console.WriteLine($"v[{index}] = {valor}");
                 index++;
             }
-
         }
-
-
     }
 }

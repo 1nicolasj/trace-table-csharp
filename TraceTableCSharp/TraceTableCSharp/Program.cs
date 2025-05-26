@@ -33,12 +33,14 @@
                         Ex03 exercicio3 = new Ex03();
                         exercicio3.Run();
                         break;
+                    default:
+                        Console.WriteLine("Opção inválida! Escolha outra opção.");
+                        break;
                 }
-
 
                 Console.WriteLine("\n");
                 Console.WriteLine("Deseja executar outro exercício?\n[s] Sim\n[n] Não");
-                continuar = Convert.ToChar(Console.ReadLine());
+                continuar = Convert.ToChar(Console.ReadLine()!.ToLower());
             } while (continuar == 's');
         }
     }

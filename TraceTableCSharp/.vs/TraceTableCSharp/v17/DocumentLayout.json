@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\BNE\\LMS\\CursoLogica\\TraceTableCSharp\\",
+  "WorkspaceRootPath": "E:\\BNE\\LMS\\CursoLogica\\Logica\\TraceTableCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|e:\\bne\\lms\\cursologica\\tracetablecsharp\\tracetablecsharp\\ex03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|solutionrelative:tracetablecsharp\\ex03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|e:\\bne\\lms\\cursologica\\logica\\tracetablecsharp\\tracetablecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|solutionrelative:tracetablecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|e:\\bne\\lms\\cursologica\\tracetablecsharp\\tracetablecsharp\\ex02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|solutionrelative:tracetablecsharp\\ex02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|e:\\bne\\lms\\cursologica\\tracetablecsharp\\tracetablecsharp\\ex01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|e:\\bne\\lms\\cursologica\\logica\\tracetablecsharp\\tracetablecsharp\\ex01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|solutionrelative:tracetablecsharp\\ex01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|e:\\bne\\lms\\cursologica\\tracetablecsharp\\tracetablecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|solutionrelative:tracetablecsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|e:\\bne\\lms\\cursologica\\logica\\tracetablecsharp\\tracetablecsharp\\ex02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|solutionrelative:tracetablecsharp\\ex02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|e:\\bne\\lms\\cursologica\\logica\\tracetablecsharp\\tracetablecsharp\\ex03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C31B09F-5B21-4205-8090-4F93158BEF5C}|TraceTableCSharp\\TraceTableCSharp.csproj|solutionrelative:tracetablecsharp\\ex03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Ex03.cs",
-              "DocumentMoniker": "E:\\BNE\\LMS\\CursoLogica\\TraceTableCSharp\\TraceTableCSharp\\Ex03.cs",
+              "DocumentMoniker": "E:\\BNE\\LMS\\CursoLogica\\Logica\\TraceTableCSharp\\TraceTableCSharp\\Ex03.cs",
               "RelativeDocumentMoniker": "TraceTableCSharp\\Ex03.cs",
-              "ToolTip": "E:\\BNE\\LMS\\CursoLogica\\TraceTableCSharp\\TraceTableCSharp\\Ex03.cs",
+              "ToolTip": "E:\\BNE\\LMS\\CursoLogica\\Logica\\TraceTableCSharp\\TraceTableCSharp\\Ex03.cs",
               "RelativeToolTip": "TraceTableCSharp\\Ex03.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T12:31:22.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Ex02.cs",
-              "DocumentMoniker": "E:\\BNE\\LMS\\CursoLogica\\TraceTableCSharp\\TraceTableCSharp\\Ex02.cs",
+              "DocumentMoniker": "E:\\BNE\\LMS\\CursoLogica\\Logica\\TraceTableCSharp\\TraceTableCSharp\\Ex02.cs",
               "RelativeDocumentMoniker": "TraceTableCSharp\\Ex02.cs",
-              "ToolTip": "E:\\BNE\\LMS\\CursoLogica\\TraceTableCSharp\\TraceTableCSharp\\Ex02.cs",
+              "ToolTip": "E:\\BNE\\LMS\\CursoLogica\\Logica\\TraceTableCSharp\\TraceTableCSharp\\Ex02.cs",
               "RelativeToolTip": "TraceTableCSharp\\Ex02.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T12:30:55.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Ex01.cs",
-              "DocumentMoniker": "E:\\BNE\\LMS\\CursoLogica\\TraceTableCSharp\\TraceTableCSharp\\Ex01.cs",
+              "DocumentMoniker": "E:\\BNE\\LMS\\CursoLogica\\Logica\\TraceTableCSharp\\TraceTableCSharp\\Ex01.cs",
               "RelativeDocumentMoniker": "TraceTableCSharp\\Ex01.cs",
-              "ToolTip": "E:\\BNE\\LMS\\CursoLogica\\TraceTableCSharp\\TraceTableCSharp\\Ex01.cs",
+              "ToolTip": "E:\\BNE\\LMS\\CursoLogica\\Logica\\TraceTableCSharp\\TraceTableCSharp\\Ex01.cs",
               "RelativeToolTip": "TraceTableCSharp\\Ex01.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T11:39:33.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\BNE\\LMS\\CursoLogica\\TraceTableCSharp\\TraceTableCSharp\\Program.cs",
+              "DocumentMoniker": "E:\\BNE\\LMS\\CursoLogica\\Logica\\TraceTableCSharp\\TraceTableCSharp\\Program.cs",
               "RelativeDocumentMoniker": "TraceTableCSharp\\Program.cs",
-              "ToolTip": "E:\\BNE\\LMS\\CursoLogica\\TraceTableCSharp\\TraceTableCSharp\\Program.cs",
-              "RelativeToolTip": "TraceTableCSharp\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAkwCYAAAAoAAAAAAAAAA==",
+              "ToolTip": "E:\\BNE\\LMS\\CursoLogica\\Logica\\TraceTableCSharp\\TraceTableCSharp\\Program.cs*",
+              "RelativeToolTip": "TraceTableCSharp\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T11:38:43.058Z",
               "EditorCaption": ""

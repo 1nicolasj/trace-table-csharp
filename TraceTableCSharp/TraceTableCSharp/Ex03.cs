@@ -11,7 +11,6 @@ namespace TraceTableCSharp
         public void Run()
         {
             int a = 7, b = a - 6;
-
             int[] v = new int[7];
 
             while(b < a)
@@ -19,15 +18,12 @@ namespace TraceTableCSharp
                 v[b] = b + a;
                 b = b + 2;
             }
-
+            int index = 0;
             foreach (int valor in v)
             {
-                Console.WriteLine(valor);
+                Console.WriteLine($"v[{index}] = {valor}");
+                index++;
             }
-
-
         }
-
-
     }
 }
