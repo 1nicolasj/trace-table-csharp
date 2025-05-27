@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TraceTableCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1282eaaa4362c4c689ee37ab5cbe0be2b712a547")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+418797b45533e5320884761cf2cf748c7608c2f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TraceTableCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TraceTableCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
