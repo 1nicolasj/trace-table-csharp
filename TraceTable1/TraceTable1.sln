@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceTable1", "TraceTable1\TraceTable1.csproj", "{C903C6CF-9A39-496D-A537-374AD97D24CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C903C6CF-9A39-496D-A537-374AD97D24CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C903C6CF-9A39-496D-A537-374AD97D24CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C903C6CF-9A39-496D-A537-374AD97D24CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C903C6CF-9A39-496D-A537-374AD97D24CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {733A99D4-C58A-4F5F-9781-7DBC0D1B8C12}
+	EndGlobalSection
+EndGlobal

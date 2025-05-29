@@ -1,4 +1,4 @@
-﻿namespace TraceTableCSharp
+﻿namespace TraceTable1
 {
     internal class Program
     {
@@ -42,6 +42,9 @@
                 Console.WriteLine("Deseja executar outro exercício?\n[s] Sim\n[n] Não");
                 continuar = Convert.ToChar(Console.ReadLine()!.ToLower());
             } while (continuar == 's');
+
         }
     }
 }
+
+

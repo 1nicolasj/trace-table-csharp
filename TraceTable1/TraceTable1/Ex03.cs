@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TraceTableCSharp
+namespace TraceTable1
 {
     internal class Ex03
     {
@@ -13,7 +13,7 @@ namespace TraceTableCSharp
             int a = 7, b = a - 6;
             int[] v = new int[7];
 
-            while(b < a)
+            while (b < a)
             {
                 v[b] = b + a;
                 b = b + 2;

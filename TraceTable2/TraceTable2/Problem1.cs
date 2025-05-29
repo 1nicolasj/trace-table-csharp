@@ -11,7 +11,7 @@ namespace TraceTable2
         public static void Run()
         {
             double valorPresente, taxaJuros;
-            int periodoMes;
+            double periodoMes;
             SolicitarDadosInvestimento(out valorPresente, out taxaJuros, out periodoMes);
 
             double valorF = CalculadoraFutureValue.CalcularValorFuturo(valorPresente, taxaJuros, periodoMes);

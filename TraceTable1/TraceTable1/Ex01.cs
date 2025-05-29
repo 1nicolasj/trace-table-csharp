@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TraceTableCSharp
+namespace TraceTable1
 {
     internal class Ex01
     {
@@ -14,7 +14,7 @@ namespace TraceTableCSharp
             c = c - 40;
             int[] v = new int[4];
 
-            for(int i = 0; i < v.Length; i++)
+            for (int i = 0; i < v.Length; i++)
             {
                 if (i == 3)
                 {
