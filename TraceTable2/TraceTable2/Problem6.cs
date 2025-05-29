@@ -10,7 +10,13 @@ namespace TraceTable2
     {
         public static void Run()
         {
-            Menu.MenuInvestimentos(); //chama menu que repete varios investimentos
+            double valorPresente, taxaJuros, periodo;
+            char mesOuAno;
+            DateTime dataFinal;
+            int totalDias;
+            SolicitarDadosInvestimento(out valorPresente, out taxaJuros, out periodo, out mesOuAno, out dataFinal, out totalDias);
+
+            double valorF = CalculadoraFutureValue.CalcularValorFuturoDatas(valorPresente, taxaJuros, mesOuAno, totalDias);
         }
     }
 }

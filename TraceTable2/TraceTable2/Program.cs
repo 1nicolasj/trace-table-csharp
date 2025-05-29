@@ -41,11 +41,11 @@
                         break;
                     case 7:
                         Console.Clear();
-                        //Problem7.Run();
+                        Problem7.Run();
                         break;
                     case 8:
                         Console.Clear();
-                        //Problem8.Run();
+                        Problem8.Run();
                         break;
 
                     default:

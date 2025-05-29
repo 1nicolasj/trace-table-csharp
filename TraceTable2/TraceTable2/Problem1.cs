@@ -10,11 +10,13 @@ namespace TraceTable2
     {
         public static void Run()
         {
-            double valorPresente, taxaJuros;
-            double periodoMes;
-            SolicitarDadosInvestimento(out valorPresente, out taxaJuros, out periodoMes);
+            double valorPresente, taxaJuros, periodo;
+            char mesOuAno;
+            DateTime dataFinal;
+            int totalDiasRetornado;
+            SolicitarDadosInvestimento(out valorPresente, out taxaJuros, out periodo, out mesOuAno, out dataFinal, out totalDiasRetornado);
 
-            double valorF = CalculadoraFutureValue.CalcularValorFuturo(valorPresente, taxaJuros, periodoMes);
+            double valorF = CalculadoraFutureValue.CalcularValorFuturo(valorPresente, taxaJuros, periodo);
             Console.WriteLine($"O valor futuro é: R$ {valorF:F2}");
         }
     }

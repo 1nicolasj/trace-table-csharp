@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace TraceTable2
 {
-    internal class Menu
+    internal class Menu : CalculadoraFutureValue
     {
-        //TODO: Implementar os problemas 6, 7 e 8, MELHORAR MENU
         public static int MostrarMenu()
         {
             Console.Clear();
@@ -48,12 +47,15 @@ namespace TraceTable2
             char continuar;
             do
             {
-                Console.WriteLine("-----------------------------------");
-                Console.WriteLine("Calculando diversos valores futuros");
-                Console.WriteLine("-----------------------------------");
+                Console.WriteLine("|-------------------------------------|");
+                Console.WriteLine("| Calculando diversos valores futuros |");
+                Console.WriteLine("|-------------------------------------|");
 
                 double valorPresente, taxaJuros, periodo;
-                CalculadoraFutureValue.SolicitarDadosInvestimento(out valorPresente, out taxaJuros, out periodo);
+                char mesOuAno;
+                DateTime dataFinal;
+                int totalDiasRetornado;
+                SolicitarDadosInvestimento(out valorPresente, out taxaJuros, out periodo, out mesOuAno, out dataFinal, out totalDiasRetornado);
 
                 CalculadoraFutureValue.MostrarTabelaRendimento(valorPresente, taxaJuros, periodo);
 
